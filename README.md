@@ -1,6 +1,6 @@
-Privacy Policy for Noted
-Effective Date: October, 18 2024
-Last Updated: October, 18 2024
+## Privacy Policy for Noted
+### Effective Date: October, 18 2024
+### Last Updated: October, 18 2024
 At Album (Noted), we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you use our note-taking app.
 1. Information We Collect
 We may collect the following types of information from you:
